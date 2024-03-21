@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+python-dotenv
+
+# you might need your own gemini api, first try doing that setup
